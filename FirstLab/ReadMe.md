@@ -62,7 +62,7 @@
       NO ACTION (игнорировать) – выполнять операции, не обращая
     внимания на нарушения ссылочной целостности.
       NONE – не требуется обеспечение ссылочной целостности
-[Таблица](https://study.urfu.ru/Aid/Publication/13604/1/Kara-Ushanov.pdf)
+[Таблица (стр. 33)](https://study.urfu.ru/Aid/Publication/13604/1/Kara-Ushanov.pdf)
 
 #### DDL
     DDL is Data Definition Language and is used to define the structures like schema, database, tables, constraints etc. 
